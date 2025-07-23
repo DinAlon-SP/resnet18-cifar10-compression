@@ -8,9 +8,10 @@ The primary goal is to significantly reduce the model's size and inference time 
 
 ###  Final Results
 
-- **Compressed model size**: 2.96 MB  
-- **Test accuracy**: 89.03%  
-- **Baseline (uncompressed)**: 42.66 MB, 92.02% accuracy  
+- **Baseline (uncompressed)**: 42.66 MB, 92.02% accuracy
+- **Compressed model size**: 2.96 MB (93.06% compression)
+- **Test accuracy**: 89.03%  (2.99% accuracy loss)
+
 
 These results show that ResNet-18 can be aggressively compressed while still achieving strong performance on CIFAR-10.
 
