@@ -1,0 +1,36 @@
+ New best model saved! Val Loss: 2.24
+ Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet20/pruning/90_percent/best_model.pth
+ Epoch [1/10] | Train Loss: 2.2831 | Val Loss: 2.2360 | ⏱️ Epoch Time: 3.33s
+ Epoch [2/10] | Train Loss: 2.0813 | Val Loss: 2.2798 | ⏱️ Epoch Time: 3.71s
+ New best model saved! Val Loss: 2.06
+ Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet20/pruning/90_percent/best_model.pth
+ Epoch [3/10] | Train Loss: 1.9558 | Val Loss: 2.0617 | ⏱️ Epoch Time: 4.08s
+ New best model saved! Val Loss: 1.94
+ Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet20/pruning/90_percent/best_model.pth
+ Epoch [4/10] | Train Loss: 1.9183 | Val Loss: 1.9396 | ⏱️ Epoch Time: 3.24s
+ Epoch [5/10] | Train Loss: 1.8792 | Val Loss: 2.0423 | ⏱️ Epoch Time: 3.91s
+ New best model saved! Val Loss: 1.83
+ Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet20/pruning/90_percent/best_model.pth
+ Epoch [6/10] | Train Loss: 1.8375 | Val Loss: 1.8295 | ⏱️ Epoch Time: 3.23s
+ New best model saved! Val Loss: 1.82
+ Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet20/pruning/90_percent/best_model.pth
+ Epoch [7/10] | Train Loss: 1.7948 | Val Loss: 1.8204 | ⏱️ Epoch Time: 3.98s
+ Epoch [8/10] | Train Loss: 1.7655 | Val Loss: 1.8530 | ⏱️ Epoch Time: 3.99s
+ New best model saved! Val Loss: 1.75
+ Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet20/pruning/90_percent/best_model.pth
+ Epoch [9/10] | Train Loss: 1.7431 | Val Loss: 1.7470 | ⏱️ Epoch Time: 3.24s
+ New best model saved! Val Loss: 1.73
+ Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet20/pruning/90_percent/best_model.pth
+ Epoch [10/10] | Train Loss: 1.7314 | Val Loss: 1.7306 | ⏱️ Epoch Time: 3.97s
+ Test Accuracy of Best Model: 35.15%
+ Avg Epoch Time: 3.67 sec
+ Loss plot saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet20/pruning/90_percent/loss_plot.png
+Precision Type:     FP32 (float32)
+Model Size:         0.01 MB
+Trainable Params:   2,526
+Test Accuracy:      35.15%
+Inference Time:     1.5800 ms/image (GPU)
+Training Time:      3.67 sec
+ Saved pruning summary to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet20/pruning/resnet20_pruning_results_summary_table.csv
+
+

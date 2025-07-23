@@ -1,0 +1,18 @@
+💾 New best model saved! Val Loss: 2.10
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet20/pruning/95_percent/best_model.pth
+📍 Epoch [1/2] | Train Loss: 2.1964 | Val Loss: 2.1042 | ⏱️ Epoch Time: 3.18s
+💾 New best model saved! Val Loss: 2.03
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet20/pruning/95_percent/best_model.pth
+📍 Epoch [2/2] | Train Loss: 2.0653 | Val Loss: 2.0263 | ⏱️ Epoch Time: 3.21s
+✅ Test Accuracy of Best Model: 21.49%
+🕒 Avg Epoch Time: 3.20 sec
+📊 Loss plot saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet20/pruning/95_percent/loss_plot.png
+🧠 Precision Type:     FP32 (float32)
+📦 Model Size:         0.06 MB
+🔢 Trainable Params:   15,216
+🎯 Test Accuracy:      21.49%
+⚡ Inference Time:     1.5195 ms/image (GPU)
+⏱️ Training Time:      3.20 sec
+✅ Saved pruning summary to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet20/pruning/resnet20_pruning_results_summary_table.csv
+
+

@@ -1,0 +1,157 @@
+💾 New best model saved! Val Loss: 1.41
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [1/100] | Train Loss: 1.5323 | Val Loss: 1.4067 | ⏱️ Epoch Time: 9.48s
+💾 New best model saved! Val Loss: 1.13
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [2/100] | Train Loss: 1.1299 | Val Loss: 1.1342 | ⏱️ Epoch Time: 3.94s
+💾 New best model saved! Val Loss: 1.00
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [3/100] | Train Loss: 0.9433 | Val Loss: 1.0041 | ⏱️ Epoch Time: 3.95s
+📍 Epoch [4/100] | Train Loss: 0.8301 | Val Loss: 1.0220 | ⏱️ Epoch Time: 3.54s
+📍 Epoch [5/100] | Train Loss: 0.7589 | Val Loss: 1.4013 | ⏱️ Epoch Time: 3.56s
+💾 New best model saved! Val Loss: 0.78
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [6/100] | Train Loss: 0.7123 | Val Loss: 0.7818 | ⏱️ Epoch Time: 3.92s
+📍 Epoch [7/100] | Train Loss: 0.6717 | Val Loss: 0.9267 | ⏱️ Epoch Time: 3.49s
+📍 Epoch [8/100] | Train Loss: 0.6413 | Val Loss: 0.9548 | ⏱️ Epoch Time: 3.47s
+📍 Epoch [9/100] | Train Loss: 0.6230 | Val Loss: 0.9268 | ⏱️ Epoch Time: 3.52s
+📍 Epoch [10/100] | Train Loss: 0.5991 | Val Loss: 0.8169 | ⏱️ Epoch Time: 3.54s
+📍 Epoch [11/100] | Train Loss: 0.5839 | Val Loss: 0.7998 | ⏱️ Epoch Time: 3.49s
+💾 New best model saved! Val Loss: 0.74
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [12/100] | Train Loss: 0.5626 | Val Loss: 0.7406 | ⏱️ Epoch Time: 3.94s
+📍 Epoch [13/100] | Train Loss: 0.5507 | Val Loss: 0.7554 | ⏱️ Epoch Time: 3.47s
+💾 New best model saved! Val Loss: 0.68
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [14/100] | Train Loss: 0.5361 | Val Loss: 0.6769 | ⏱️ Epoch Time: 3.96s
+💾 New best model saved! Val Loss: 0.65
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [15/100] | Train Loss: 0.5284 | Val Loss: 0.6522 | ⏱️ Epoch Time: 3.93s
+📍 Epoch [16/100] | Train Loss: 0.5310 | Val Loss: 0.7125 | ⏱️ Epoch Time: 3.51s
+📍 Epoch [17/100] | Train Loss: 0.5120 | Val Loss: 0.8916 | ⏱️ Epoch Time: 3.51s
+📍 Epoch [18/100] | Train Loss: 0.5226 | Val Loss: 0.6750 | ⏱️ Epoch Time: 3.47s
+📍 Epoch [19/100] | Train Loss: 0.5094 | Val Loss: 0.6844 | ⏱️ Epoch Time: 3.48s
+📍 Epoch [20/100] | Train Loss: 0.5011 | Val Loss: 0.6842 | ⏱️ Epoch Time: 3.48s
+📍 Epoch [21/100] | Train Loss: 0.4978 | Val Loss: 0.6698 | ⏱️ Epoch Time: 3.49s
+📍 Epoch [22/100] | Train Loss: 0.4897 | Val Loss: 0.6771 | ⏱️ Epoch Time: 3.51s
+📍 Epoch [23/100] | Train Loss: 0.4852 | Val Loss: 0.7724 | ⏱️ Epoch Time: 3.51s
+📍 Epoch [24/100] | Train Loss: 0.4830 | Val Loss: 0.9210 | ⏱️ Epoch Time: 3.51s
+📍 Epoch [25/100] | Train Loss: 0.4710 | Val Loss: 1.0113 | ⏱️ Epoch Time: 3.51s
+📍 Epoch [26/100] | Train Loss: 0.4739 | Val Loss: 0.8045 | ⏱️ Epoch Time: 3.49s
+📍 Epoch [27/100] | Train Loss: 0.4546 | Val Loss: 0.6868 | ⏱️ Epoch Time: 3.48s
+📍 Epoch [28/100] | Train Loss: 0.4535 | Val Loss: 0.6812 | ⏱️ Epoch Time: 3.52s
+💾 New best model saved! Val Loss: 0.56
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [29/100] | Train Loss: 0.4411 | Val Loss: 0.5567 | ⏱️ Epoch Time: 3.92s
+📍 Epoch [30/100] | Train Loss: 0.4415 | Val Loss: 0.6934 | ⏱️ Epoch Time: 3.50s
+📍 Epoch [31/100] | Train Loss: 0.4380 | Val Loss: 0.7310 | ⏱️ Epoch Time: 3.49s
+📍 Epoch [32/100] | Train Loss: 0.4323 | Val Loss: 0.6843 | ⏱️ Epoch Time: 3.50s
+📍 Epoch [33/100] | Train Loss: 0.4274 | Val Loss: 0.7283 | ⏱️ Epoch Time: 3.54s
+📍 Epoch [34/100] | Train Loss: 0.4189 | Val Loss: 0.9016 | ⏱️ Epoch Time: 3.49s
+📍 Epoch [35/100] | Train Loss: 0.4103 | Val Loss: 0.7024 | ⏱️ Epoch Time: 3.53s
+📍 Epoch [36/100] | Train Loss: 0.4099 | Val Loss: 0.6161 | ⏱️ Epoch Time: 3.53s
+📍 Epoch [37/100] | Train Loss: 0.4048 | Val Loss: 0.6045 | ⏱️ Epoch Time: 3.50s
+💾 New best model saved! Val Loss: 0.50
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [38/100] | Train Loss: 0.4033 | Val Loss: 0.4960 | ⏱️ Epoch Time: 3.93s
+📍 Epoch [39/100] | Train Loss: 0.3880 | Val Loss: 0.6781 | ⏱️ Epoch Time: 3.52s
+📍 Epoch [40/100] | Train Loss: 0.3888 | Val Loss: 0.5916 | ⏱️ Epoch Time: 3.51s
+📍 Epoch [41/100] | Train Loss: 0.3700 | Val Loss: 0.7761 | ⏱️ Epoch Time: 3.98s
+📍 Epoch [42/100] | Train Loss: 0.3760 | Val Loss: 0.5973 | ⏱️ Epoch Time: 3.53s
+📍 Epoch [43/100] | Train Loss: 0.3637 | Val Loss: 0.5444 | ⏱️ Epoch Time: 3.57s
+📍 Epoch [44/100] | Train Loss: 0.3627 | Val Loss: 0.5287 | ⏱️ Epoch Time: 3.51s
+📍 Epoch [45/100] | Train Loss: 0.3551 | Val Loss: 0.6117 | ⏱️ Epoch Time: 4.01s
+📍 Epoch [46/100] | Train Loss: 0.3458 | Val Loss: 0.5214 | ⏱️ Epoch Time: 4.09s
+📍 Epoch [47/100] | Train Loss: 0.3417 | Val Loss: 0.5845 | ⏱️ Epoch Time: 3.54s
+📍 Epoch [48/100] | Train Loss: 0.3430 | Val Loss: 0.5083 | ⏱️ Epoch Time: 3.51s
+📍 Epoch [49/100] | Train Loss: 0.3323 | Val Loss: 0.5963 | ⏱️ Epoch Time: 3.50s
+📍 Epoch [50/100] | Train Loss: 0.3261 | Val Loss: 0.5240 | ⏱️ Epoch Time: 4.00s
+📍 Epoch [51/100] | Train Loss: 0.3167 | Val Loss: 0.6772 | ⏱️ Epoch Time: 3.51s
+📍 Epoch [52/100] | Train Loss: 0.3190 | Val Loss: 0.5352 | ⏱️ Epoch Time: 4.05s
+📍 Epoch [53/100] | Train Loss: 0.3015 | Val Loss: 0.5044 | ⏱️ Epoch Time: 3.51s
+📍 Epoch [54/100] | Train Loss: 0.2975 | Val Loss: 0.5195 | ⏱️ Epoch Time: 4.11s
+📍 Epoch [55/100] | Train Loss: 0.2825 | Val Loss: 0.5223 | ⏱️ Epoch Time: 4.12s
+📍 Epoch [56/100] | Train Loss: 0.2851 | Val Loss: 0.5286 | ⏱️ Epoch Time: 3.52s
+📍 Epoch [57/100] | Train Loss: 0.2803 | Val Loss: 0.6219 | ⏱️ Epoch Time: 4.08s
+📍 Epoch [58/100] | Train Loss: 0.2756 | Val Loss: 0.6049 | ⏱️ Epoch Time: 4.12s
+💾 New best model saved! Val Loss: 0.44
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [59/100] | Train Loss: 0.2627 | Val Loss: 0.4422 | ⏱️ Epoch Time: 3.95s
+📍 Epoch [60/100] | Train Loss: 0.2576 | Val Loss: 0.4664 | ⏱️ Epoch Time: 3.50s
+📍 Epoch [61/100] | Train Loss: 0.2501 | Val Loss: 0.4733 | ⏱️ Epoch Time: 4.06s
+📍 Epoch [62/100] | Train Loss: 0.2376 | Val Loss: 0.4680 | ⏱️ Epoch Time: 4.17s
+📍 Epoch [63/100] | Train Loss: 0.2340 | Val Loss: 0.4843 | ⏱️ Epoch Time: 4.21s
+📍 Epoch [64/100] | Train Loss: 0.2137 | Val Loss: 0.4604 | ⏱️ Epoch Time: 4.20s
+📍 Epoch [65/100] | Train Loss: 0.2117 | Val Loss: 0.5715 | ⏱️ Epoch Time: 3.52s
+💾 New best model saved! Val Loss: 0.43
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [66/100] | Train Loss: 0.2105 | Val Loss: 0.4272 | ⏱️ Epoch Time: 4.59s
+💾 New best model saved! Val Loss: 0.39
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [67/100] | Train Loss: 0.1905 | Val Loss: 0.3932 | ⏱️ Epoch Time: 4.50s
+📍 Epoch [68/100] | Train Loss: 0.1864 | Val Loss: 0.4684 | ⏱️ Epoch Time: 4.08s
+📍 Epoch [69/100] | Train Loss: 0.1791 | Val Loss: 0.4048 | ⏱️ Epoch Time: 4.14s
+📍 Epoch [70/100] | Train Loss: 0.1737 | Val Loss: 0.4262 | ⏱️ Epoch Time: 4.22s
+📍 Epoch [71/100] | Train Loss: 0.1590 | Val Loss: 0.4305 | ⏱️ Epoch Time: 3.52s
+💾 New best model saved! Val Loss: 0.39
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [72/100] | Train Loss: 0.1519 | Val Loss: 0.3888 | ⏱️ Epoch Time: 4.68s
+📍 Epoch [73/100] | Train Loss: 0.1372 | Val Loss: 0.4140 | ⏱️ Epoch Time: 4.07s
+📍 Epoch [74/100] | Train Loss: 0.1314 | Val Loss: 0.3888 | ⏱️ Epoch Time: 4.09s
+💾 New best model saved! Val Loss: 0.36
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [75/100] | Train Loss: 0.1229 | Val Loss: 0.3612 | ⏱️ Epoch Time: 4.56s
+📍 Epoch [76/100] | Train Loss: 0.1153 | Val Loss: 0.3626 | ⏱️ Epoch Time: 3.51s
+💾 New best model saved! Val Loss: 0.35
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [77/100] | Train Loss: 0.1094 | Val Loss: 0.3516 | ⏱️ Epoch Time: 4.54s
+💾 New best model saved! Val Loss: 0.35
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [78/100] | Train Loss: 0.0950 | Val Loss: 0.3506 | ⏱️ Epoch Time: 4.55s
+📍 Epoch [79/100] | Train Loss: 0.0883 | Val Loss: 0.3735 | ⏱️ Epoch Time: 4.14s
+📍 Epoch [80/100] | Train Loss: 0.0811 | Val Loss: 0.3531 | ⏱️ Epoch Time: 4.12s
+📍 Epoch [81/100] | Train Loss: 0.0746 | Val Loss: 0.3559 | ⏱️ Epoch Time: 4.23s
+💾 New best model saved! Val Loss: 0.34
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [82/100] | Train Loss: 0.0673 | Val Loss: 0.3433 | ⏱️ Epoch Time: 3.96s
+💾 New best model saved! Val Loss: 0.33
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [83/100] | Train Loss: 0.0625 | Val Loss: 0.3289 | ⏱️ Epoch Time: 3.96s
+📍 Epoch [84/100] | Train Loss: 0.0521 | Val Loss: 0.3310 | ⏱️ Epoch Time: 3.50s
+💾 New best model saved! Val Loss: 0.32
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [85/100] | Train Loss: 0.0452 | Val Loss: 0.3204 | ⏱️ Epoch Time: 4.49s
+💾 New best model saved! Val Loss: 0.30
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [86/100] | Train Loss: 0.0400 | Val Loss: 0.3049 | ⏱️ Epoch Time: 4.63s
+💾 New best model saved! Val Loss: 0.30
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [87/100] | Train Loss: 0.0380 | Val Loss: 0.3036 | ⏱️ Epoch Time: 4.55s
+💾 New best model saved! Val Loss: 0.30
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [88/100] | Train Loss: 0.0367 | Val Loss: 0.3006 | ⏱️ Epoch Time: 4.54s
+💾 New best model saved! Val Loss: 0.30
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [89/100] | Train Loss: 0.0342 | Val Loss: 0.2981 | ⏱️ Epoch Time: 4.57s
+💾 New best model saved! Val Loss: 0.30
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [90/100] | Train Loss: 0.0311 | Val Loss: 0.2966 | ⏱️ Epoch Time: 4.58s
+💾 New best model saved! Val Loss: 0.30
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [91/100] | Train Loss: 0.0311 | Val Loss: 0.2954 | ⏱️ Epoch Time: 4.65s
+💾 New best model saved! Val Loss: 0.29
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [92/100] | Train Loss: 0.0288 | Val Loss: 0.2860 | ⏱️ Epoch Time: 3.98s
+📍 Epoch [93/100] | Train Loss: 0.0279 | Val Loss: 0.2938 | ⏱️ Epoch Time: 3.85s
+📍 Epoch [94/100] | Train Loss: 0.0285 | Val Loss: 0.2960 | ⏱️ Epoch Time: 4.16s
+📍 Epoch [95/100] | Train Loss: 0.0285 | Val Loss: 0.3040 | ⏱️ Epoch Time: 4.17s
+📍 Epoch [96/100] | Train Loss: 0.0276 | Val Loss: 0.2903 | ⏱️ Epoch Time: 4.18s
+📍 Epoch [97/100] | Train Loss: 0.0262 | Val Loss: 0.2936 | ⏱️ Epoch Time: 4.30s
+📍 Epoch [98/100] | Train Loss: 0.0272 | Val Loss: 0.2868 | ⏱️ Epoch Time: 3.58s
+💾 New best model saved! Val Loss: 0.28
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/best_model.pth
+📍 Epoch [99/100] | Train Loss: 0.0265 | Val Loss: 0.2835 | ⏱️ Epoch Time: 4.61s
+📍 Epoch [100/100] | Train Loss: 0.0269 | Val Loss: 0.2967 | ⏱️ Epoch Time: 4.16s
+✅ Test Accuracy of Best Model: 92.02%
+🕒 Avg Epoch Time: 3.93 sec
+📊 Loss plot saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full/loss_plot.png

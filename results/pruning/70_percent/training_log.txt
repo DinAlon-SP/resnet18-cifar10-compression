@@ -1,0 +1,218 @@
+💾 New best model saved! Val Loss: 1.82
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/70_percent/best_model.pth
+📍 Epoch [1/10] | Train Loss: 1.7124 | Val Loss: 1.8205 | ⏱️ Epoch Time: 3.90s
+💾 New best model saved! Val Loss: 1.50
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/70_percent/best_model.pth
+📍 Epoch [2/10] | Train Loss: 1.2004 | Val Loss: 1.5019 | ⏱️ Epoch Time: 3.89s
+💾 New best model saved! Val Loss: 1.37
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/70_percent/best_model.pth
+📍 Epoch [3/10] | Train Loss: 1.0098 | Val Loss: 1.3666 | ⏱️ Epoch Time: 3.98s
+💾 New best model saved! Val Loss: 1.06
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/70_percent/best_model.pth
+📍 Epoch [4/10] | Train Loss: 0.8905 | Val Loss: 1.0601 | ⏱️ Epoch Time: 3.34s
+💾 New best model saved! Val Loss: 0.87
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/70_percent/best_model.pth
+📍 Epoch [5/10] | Train Loss: 0.7959 | Val Loss: 0.8722 | ⏱️ Epoch Time: 3.32s
+💾 New best model saved! Val Loss: 0.83
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/70_percent/best_model.pth
+📍 Epoch [6/10] | Train Loss: 0.7280 | Val Loss: 0.8304 | ⏱️ Epoch Time: 3.96s
+💾 New best model saved! Val Loss: 0.75
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/70_percent/best_model.pth
+📍 Epoch [7/10] | Train Loss: 0.6660 | Val Loss: 0.7517 | ⏱️ Epoch Time: 4.00s
+💾 New best model saved! Val Loss: 0.67
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/70_percent/best_model.pth
+📍 Epoch [8/10] | Train Loss: 0.6033 | Val Loss: 0.6718 | ⏱️ Epoch Time: 3.35s
+💾 New best model saved! Val Loss: 0.58
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/70_percent/best_model.pth
+📍 Epoch [9/10] | Train Loss: 0.5408 | Val Loss: 0.5813 | ⏱️ Epoch Time: 4.05s
+💾 New best model saved! Val Loss: 0.54
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/70_percent/best_model.pth
+📍 Epoch [10/10] | Train Loss: 0.5115 | Val Loss: 0.5369 | ⏱️ Epoch Time: 4.08s
+✅ Test Accuracy of Best Model: 83.03%
+🕒 Avg Epoch Time: 3.79 sec
+📊 Loss plot saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/70_percent/loss_plot.png
+🧠 Precision Type:     FP32 (float32)
+📦 Model Size:         3.82 MB
+🔢 Trainable Params:   997,272
+🎯 Test Accuracy:      83.03%
+⚡ Inference Time:     1.7992 ms/image (GPU)
+⏱️ Training Time:      3.79 sec
+currently pruning 75% of the weights:
+
+🧠 Precision Type:     FP32 (float32)
+📦 Model Size:         2.69 MB
+🔢 Trainable Params:   701,466
+🎯 Test Accuracy:      10.95%
+⚡ Inference Time:     2.0683 ms/image (GPU)
+⏱️ Training Time:      N/A
+💾 New best model saved! Val Loss: 1.50
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/75_percent/best_model.pth
+📍 Epoch [1/10] | Train Loss: 1.7753 | Val Loss: 1.5046 | ⏱️ Epoch Time: 3.36s
+📍 Epoch [2/10] | Train Loss: 1.3581 | Val Loss: 1.6936 | ⏱️ Epoch Time: 4.00s
+💾 New best model saved! Val Loss: 1.31
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/75_percent/best_model.pth
+📍 Epoch [3/10] | Train Loss: 1.1752 | Val Loss: 1.3132 | ⏱️ Epoch Time: 4.08s
+💾 New best model saved! Val Loss: 1.23
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/75_percent/best_model.pth
+📍 Epoch [4/10] | Train Loss: 1.0613 | Val Loss: 1.2268 | ⏱️ Epoch Time: 4.00s
+📍 Epoch [5/10] | Train Loss: 0.9533 | Val Loss: 1.3104 | ⏱️ Epoch Time: 3.23s
+💾 New best model saved! Val Loss: 1.01
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/75_percent/best_model.pth
+📍 Epoch [6/10] | Train Loss: 0.8563 | Val Loss: 1.0080 | ⏱️ Epoch Time: 4.28s
+💾 New best model saved! Val Loss: 0.89
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/75_percent/best_model.pth
+📍 Epoch [7/10] | Train Loss: 0.7807 | Val Loss: 0.8918 | ⏱️ Epoch Time: 4.21s
+💾 New best model saved! Val Loss: 0.76
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/75_percent/best_model.pth
+📍 Epoch [8/10] | Train Loss: 0.7035 | Val Loss: 0.7637 | ⏱️ Epoch Time: 4.04s
+💾 New best model saved! Val Loss: 0.67
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/75_percent/best_model.pth
+📍 Epoch [9/10] | Train Loss: 0.6382 | Val Loss: 0.6657 | ⏱️ Epoch Time: 3.34s
+💾 New best model saved! Val Loss: 0.61
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/75_percent/best_model.pth
+📍 Epoch [10/10] | Train Loss: 0.5977 | Val Loss: 0.6122 | ⏱️ Epoch Time: 4.02s
+✅ Test Accuracy of Best Model: 79.64%
+🕒 Avg Epoch Time: 3.86 sec
+📊 Loss plot saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/75_percent/loss_plot.png
+🧠 Precision Type:     FP32 (float32)
+📦 Model Size:         2.69 MB
+🔢 Trainable Params:   701,466
+🎯 Test Accuracy:      79.64%
+⚡ Inference Time:     1.6876 ms/image (GPU)
+⏱️ Training Time:      3.86 sec
+currently pruning 80% of the weights:
+
+🧠 Precision Type:     FP32 (float32)
+📦 Model Size:         1.70 MB
+🔢 Trainable Params:   444,218
+🎯 Test Accuracy:      10.00%
+⚡ Inference Time:     1.8161 ms/image (GPU)
+⏱️ Training Time:      N/A
+💾 New best model saved! Val Loss: 1.77
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/80_percent/best_model.pth
+📍 Epoch [1/10] | Train Loss: 1.9587 | Val Loss: 1.7687 | ⏱️ Epoch Time: 3.78s
+💾 New best model saved! Val Loss: 1.55
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/80_percent/best_model.pth
+📍 Epoch [2/10] | Train Loss: 1.5176 | Val Loss: 1.5497 | ⏱️ Epoch Time: 3.52s
+💾 New best model saved! Val Loss: 1.40
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/80_percent/best_model.pth
+📍 Epoch [3/10] | Train Loss: 1.3235 | Val Loss: 1.3981 | ⏱️ Epoch Time: 4.04s
+📍 Epoch [4/10] | Train Loss: 1.1796 | Val Loss: 1.7652 | ⏱️ Epoch Time: 3.99s
+💾 New best model saved! Val Loss: 1.26
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/80_percent/best_model.pth
+📍 Epoch [5/10] | Train Loss: 1.0653 | Val Loss: 1.2572 | ⏱️ Epoch Time: 4.03s
+💾 New best model saved! Val Loss: 1.12
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/80_percent/best_model.pth
+📍 Epoch [6/10] | Train Loss: 0.9843 | Val Loss: 1.1184 | ⏱️ Epoch Time: 3.27s
+💾 New best model saved! Val Loss: 0.97
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/80_percent/best_model.pth
+📍 Epoch [7/10] | Train Loss: 0.9010 | Val Loss: 0.9748 | ⏱️ Epoch Time: 4.01s
+💾 New best model saved! Val Loss: 0.91
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/80_percent/best_model.pth
+📍 Epoch [8/10] | Train Loss: 0.8264 | Val Loss: 0.9094 | ⏱️ Epoch Time: 3.97s
+💾 New best model saved! Val Loss: 0.84
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/80_percent/best_model.pth
+📍 Epoch [9/10] | Train Loss: 0.7703 | Val Loss: 0.8351 | ⏱️ Epoch Time: 3.98s
+💾 New best model saved! Val Loss: 0.75
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/80_percent/best_model.pth
+📍 Epoch [10/10] | Train Loss: 0.7297 | Val Loss: 0.7482 | ⏱️ Epoch Time: 3.30s
+✅ Test Accuracy of Best Model: 75.29%
+🕒 Avg Epoch Time: 3.79 sec
+📊 Loss plot saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/80_percent/loss_plot.png
+🧠 Precision Type:     FP32 (float32)
+📦 Model Size:         1.70 MB
+🔢 Trainable Params:   444,218
+🎯 Test Accuracy:      75.29%
+⚡ Inference Time:     1.8284 ms/image (GPU)
+⏱️ Training Time:      3.79 sec
+currently pruning 85% of the weights:
+
+🧠 Precision Type:     FP32 (float32)
+📦 Model Size:         0.95 MB
+🔢 Trainable Params:   247,846
+🎯 Test Accuracy:      10.00%
+⚡ Inference Time:     1.8759 ms/image (GPU)
+⏱️ Training Time:      N/A
+💾 New best model saved! Val Loss: 2.20
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/85_percent/best_model.pth
+📍 Epoch [1/10] | Train Loss: 2.1311 | Val Loss: 2.1967 | ⏱️ Epoch Time: 3.87s
+💾 New best model saved! Val Loss: 2.06
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/85_percent/best_model.pth
+📍 Epoch [2/10] | Train Loss: 1.7200 | Val Loss: 2.0609 | ⏱️ Epoch Time: 3.97s
+💾 New best model saved! Val Loss: 1.51
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/85_percent/best_model.pth
+📍 Epoch [3/10] | Train Loss: 1.4775 | Val Loss: 1.5052 | ⏱️ Epoch Time: 3.39s
+📍 Epoch [4/10] | Train Loss: 1.3025 | Val Loss: 1.5282 | ⏱️ Epoch Time: 3.95s
+💾 New best model saved! Val Loss: 1.23
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/85_percent/best_model.pth
+📍 Epoch [5/10] | Train Loss: 1.1916 | Val Loss: 1.2286 | ⏱️ Epoch Time: 3.98s
+📍 Epoch [6/10] | Train Loss: 1.1065 | Val Loss: 1.4360 | ⏱️ Epoch Time: 3.35s
+💾 New best model saved! Val Loss: 1.22
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/85_percent/best_model.pth
+📍 Epoch [7/10] | Train Loss: 1.0197 | Val Loss: 1.2151 | ⏱️ Epoch Time: 4.03s
+💾 New best model saved! Val Loss: 1.00
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/85_percent/best_model.pth
+📍 Epoch [8/10] | Train Loss: 0.9509 | Val Loss: 1.0012 | ⏱️ Epoch Time: 3.95s
+💾 New best model saved! Val Loss: 0.96
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/85_percent/best_model.pth
+📍 Epoch [9/10] | Train Loss: 0.8939 | Val Loss: 0.9562 | ⏱️ Epoch Time: 4.04s
+💾 New best model saved! Val Loss: 0.86
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/85_percent/best_model.pth
+📍 Epoch [10/10] | Train Loss: 0.8533 | Val Loss: 0.8636 | ⏱️ Epoch Time: 3.30s
+✅ Test Accuracy of Best Model: 70.89%
+🕒 Avg Epoch Time: 3.78 sec
+📊 Loss plot saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/85_percent/loss_plot.png
+🧠 Precision Type:     FP32 (float32)
+📦 Model Size:         0.95 MB
+🔢 Trainable Params:   247,846
+🎯 Test Accuracy:      70.89%
+⚡ Inference Time:     1.7095 ms/image (GPU)
+⏱️ Training Time:      3.78 sec
+currently pruning 90% of the weights:
+
+🧠 Precision Type:     FP32 (float32)
+📦 Model Size:         0.42 MB
+🔢 Trainable Params:   110,378
+🎯 Test Accuracy:      10.00%
+⚡ Inference Time:     1.7335 ms/image (GPU)
+⏱️ Training Time:      N/A
+💾 New best model saved! Val Loss: 2.14
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/90_percent/best_model.pth
+📍 Epoch [1/10] | Train Loss: 2.0965 | Val Loss: 2.1396 | ⏱️ Epoch Time: 3.25s
+💾 New best model saved! Val Loss: 1.96
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/90_percent/best_model.pth
+📍 Epoch [2/10] | Train Loss: 1.8011 | Val Loss: 1.9613 | ⏱️ Epoch Time: 3.77s
+💾 New best model saved! Val Loss: 1.58
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/90_percent/best_model.pth
+📍 Epoch [3/10] | Train Loss: 1.6016 | Val Loss: 1.5817 | ⏱️ Epoch Time: 3.22s
+📍 Epoch [4/10] | Train Loss: 1.4940 | Val Loss: 1.9678 | ⏱️ Epoch Time: 3.32s
+💾 New best model saved! Val Loss: 1.45
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/90_percent/best_model.pth
+📍 Epoch [5/10] | Train Loss: 1.4023 | Val Loss: 1.4509 | ⏱️ Epoch Time: 3.88s
+💾 New best model saved! Val Loss: 1.37
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/90_percent/best_model.pth
+📍 Epoch [6/10] | Train Loss: 1.3253 | Val Loss: 1.3690 | ⏱️ Epoch Time: 4.01s
+💾 New best model saved! Val Loss: 1.36
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/90_percent/best_model.pth
+📍 Epoch [7/10] | Train Loss: 1.2633 | Val Loss: 1.3642 | ⏱️ Epoch Time: 3.44s
+💾 New best model saved! Val Loss: 1.21
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/90_percent/best_model.pth
+📍 Epoch [8/10] | Train Loss: 1.2072 | Val Loss: 1.2137 | ⏱️ Epoch Time: 3.94s
+💾 New best model saved! Val Loss: 1.19
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/90_percent/best_model.pth
+📍 Epoch [9/10] | Train Loss: 1.1568 | Val Loss: 1.1922 | ⏱️ Epoch Time: 3.94s
+💾 New best model saved! Val Loss: 1.12
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/90_percent/best_model.pth
+📍 Epoch [10/10] | Train Loss: 1.1238 | Val Loss: 1.1228 | ⏱️ Epoch Time: 3.25s
+✅ Test Accuracy of Best Model: 61.62%
+🕒 Avg Epoch Time: 3.60 sec
+📊 Loss plot saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/90_percent/loss_plot.png
+🧠 Precision Type:     FP32 (float32)
+📦 Model Size:         0.42 MB
+🔢 Trainable Params:   110,378
+🎯 Test Accuracy:      61.63%
+⚡ Inference Time:     1.7395 ms/image (GPU)
+⏱️ Training Time:      3.60 sec
+✅ Saved pruning summary to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/pruning/pruning_results_summary_table.csv
+
+

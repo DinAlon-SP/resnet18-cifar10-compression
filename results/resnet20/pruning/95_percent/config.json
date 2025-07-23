@@ -1,0 +1,13 @@
+{
+    "epochs": 2,
+    "lr": 0.01,
+    "optimizer_name": "SGD",
+    "loss_name": "CrossEntropy",
+    "batch_size": 256,
+    "use_scheduler": true,
+    "label_smoothing": 0.0,
+    "weight_decay": 0.01,
+    "l1_lambda": 0.0,
+    "momentum": 0.9,
+    "amp_mode": "none"
+}

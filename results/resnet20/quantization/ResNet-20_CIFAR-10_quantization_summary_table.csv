@@ -1,0 +1,4 @@
+Format,Model Size (MB),Trainable Parameters (K),Inference Time (ms/image),Test Accuracy (%)
+FP32 (TRT),1.40,272.47,0.24,92.12
+FP16,1.07,272.47,0.18,92.12
+INT8,2.69,272.47,0.15,92.08

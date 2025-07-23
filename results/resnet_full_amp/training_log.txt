@@ -1,0 +1,6 @@
+💾 New best model saved! Val Loss: 1.36
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full_amp/best_model.pth
+📍 Epoch [1/100] | Train Loss: 1.5301 | Val Loss: 1.3599 | ⏱️ Epoch Time: 3.96s
+💾 New best model saved! Val Loss: 1.31
+📁 Model saved to: /home/yakir.witkin/projects/exploring-efficient-cnn/results/resnet_full_amp/best_model.pth
+📍 Epoch [2/100] | Train Loss: 1.1360 | Val Loss: 1.3119 | ⏱️ Epoch Time: 3.63s
