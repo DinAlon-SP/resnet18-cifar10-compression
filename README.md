@@ -45,7 +45,7 @@ Together, these techniques significantly reduce model size and latency while pre
   - [1.2 Structured Pruning](#12-structured-pruning)
   - [1.3 Post-Training Quantization](#13-post-training-quantization)
   - [1.4 Combined Pruning and Quantization](#14-combined-pruning-and-quantization)
-- [2. Reducing ResNet-20](#2-reducing-resnet-20)
+- [2. Compressing ResNet-20](#2-compressing-resnet-20)
   - [2.1 Static Quantization of ResNet-20](#21-static-quantization-of-resnet-20)
   - [2.2 Pruning ResNet-20](#22-pruning-resnet-20)
 - [3. ResNet-18 vs. ResNet-20: Generalization Capacity](#3-resnet-18-vs-resnet-20-generalization-capacity)
@@ -154,7 +154,7 @@ ResNet-18 was trained from scratch on CIFAR-10 for **100 epochs** using:
 - Cosine learning rate scheduling   
 - Evaluation via get_model_info_extended
 
-![Base ResNet-18 train](results\resnet_full\loss_plot.png)
+![Base ResNet-18 train](results/resnet_full/loss_plot.png)
 
 #### 1.1.2 AMP Training
 
@@ -230,13 +230,13 @@ This setting gave the highest compression ratio while still outperforming many l
 It validates the effectiveness of sequential pruning and quantization for model deployment on low-resource devices.
 
 **Combined results summary**  
-![Pruning + Quantization](results\pruning_with_quantization\‏‏resnet18_pruning_quantization_summary_table_marked.png)
+![Pruning + Quantization](results/pruning_with_quantization/‏‏resnet18_pruning_quantization_summary_table_marked.png)
 
 
 note that in this experiment, **the FP32 model is running in the pytorch engine**
 
 
-### 2. Reducing ResNet-20
+### 2. Compressing ResNet-20
 
 In addition to compressing ResNet-18, we also explored techniques to further reduce **ResNet-20**, which is already a compact model tailored for CIFAR-10.
 
@@ -259,7 +259,7 @@ We also applied structured pruning to ResNet-20 to explore further size reductio
 ![ResNet-20 Pruning](results/resnet20/pruning/resnet20_pruning_results_summary_table.png)
 
 **Accuracy vs. Pruning Percentage (ResNet-20)**  
-![Accuracy vs Pruning](results\resnet20\pruning\resnet20_accuracy_vs_pruning.png)
+![Accuracy vs Pruning](results/resnet20/pruning/resnet20_accuracy_vs_pruning.png)
 
 
 While we were able to reduce the model size further, the margin for pruning is much smaller in ResNet-20.  
