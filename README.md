@@ -177,8 +177,7 @@ This is especially useful for training larger models like ResNet-18 on limited h
   - Avg Epoch Time: **3.66 sec**
 
 
-> AMP slightly improved training speed and memory usage, but had minimal impact on accuracy.  
- This is likely because the GPU isn’t fully utilized when training ResNet-18 on the small CIFAR-10 dataset.
+> AMP slightly improved training speed and reduced memory usage during training. However, the performance gains were modest. This limited improvement is likely due to the fact that training ResNet-18 on CIFAR-10 is a relatively lightweight task that does not fully utilize the GPU's computational resources. Since both the model and dataset are small, the GPU remains underloaded, and the benefits of mixed precision, such as faster computation and better memory bandwidth, are not fully realized. AMP tends to show more significant speedups when training larger models on high-resolution datasets where GPU resources are more heavily taxed.
 
 
 
@@ -353,9 +352,10 @@ This project opens several directions for further exploration:
 
 - [1] Li et al., *Boosting Discriminative Visual Representation Learning with Scenario-Agnostic Mixup*, 2022  
 - [2] Yu, Hujia. *Deep Convolutional Neural Networks for Tiny ImageNet Classification*, CS231n, Stanford, 2017
-- Dadalto, E. *ResNet‑18 pretrained on CIFAR‑100*. Hugging Face. https://huggingface.co/edadaltocg/resnet18_cifar100  
-- Chen, Y. *ResNet‑20 (pretrained on CIFAR‑10)* from PyTorch CIFAR Models. GitHub. https://github.com/chenyaofo/pytorch-cifar-models  
-- Nguyen‑Phan, H. *PyTorch_CIFAR10* (ResNet‑18 (modified for CIFAR-10, untrained) and hyperparameter settings were adapted from ). GitHub. https://github.com/huyvnphan/PyTorch_CIFAR10
+- [Dadalto, E. *ResNet‑18 pretrained on CIFAR‑100*. Hugging Face](https://huggingface.co/edadaltocg/resnet18_cifar100)  
+- [Chen, Y. *ResNet‑20 (pretrained on CIFAR‑10) from PyTorch CIFAR Models*. GitHub](https://github.com/chenyaofo/pytorch-cifar-models)  
+- [Nguyen‑Phan, H. *PyTorch_CIFAR10 (ResNet‑18 modified for CIFAR-10, untrained)*. GitHub](https://github.com/huyvnphan/PyTorch_CIFAR10)
+
 
 
 ## 7.License
